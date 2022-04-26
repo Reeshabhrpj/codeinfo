@@ -1,4 +1,4 @@
-# codeinfo
+# CODEinfo
 A WordPress website
 
  CODEinfo – A WordPress Website
