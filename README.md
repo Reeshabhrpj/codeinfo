@@ -8,4 +8,6 @@ A WordPress website
 CODEinfo is a fully responsive and working website on the
 internet. You can check it out by clicking the below link and reviewing it.
  
- URL: http://codeinfo.lovestoblog.com/
+YRL : https://codeinfo.lovestoblog.com/
+
+URL: http://codeinfo.lovestoblog.com/
